@@ -1,0 +1,15 @@
+{
+    "login": false,
+    "categories": [
+        {
+            "id": 1,
+            "title": "Рестораны / Кафе",
+            "icon": "/img/cats/icon1.svg"
+        },
+        {
+            "id": 2,
+            "title": "Магазины / Ритейл",
+            "icon": "/img/cats/icon2.svg"
+        }
+    ]
+}
